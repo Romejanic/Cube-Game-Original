@@ -1,0 +1,10 @@
+# eclipse
+/bin/
+.classpath
+.project
+.settings
+
+# other
+.DS_Store
+*/.DS_Store
+/src_backup.zip
